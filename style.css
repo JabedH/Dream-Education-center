@@ -292,3 +292,10 @@ p {
   margin-bottom: 16px;
   text-align: left;
 }
+/* success */
+.success {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+}
